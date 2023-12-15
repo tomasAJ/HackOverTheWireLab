@@ -1,0 +1,9 @@
+SSH connection
+The username is bandit0 and the password is bandit0.
+ssh bandit0@bandit.labs.overthewire.org -p 2220
+bandit0
+
+Commands
+ls
+cat readme
+NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
