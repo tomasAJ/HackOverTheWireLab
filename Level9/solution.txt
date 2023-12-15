@@ -1,0 +1,10 @@
+SSH connection
+The username is bandit9 and the password is EN632PlfYiZbn3PhVK3XOGSlNInNE00t
+ssh bandit9@bandit.labs.overthewire.org -p 2220
+EN632PlfYiZbn3PhVK3XOGSlNInNE00t
+
+commands
+
+strings data.txt | grep "="
+strings data.txt | grep "^="
+G7w8LIi6J3kTb8A7j9LgrywtEUlyyp6s
