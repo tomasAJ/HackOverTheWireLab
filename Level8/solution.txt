@@ -1,0 +1,9 @@
+SSH connection
+The username is bandit8 and the password is TESKZC0XvTetK0S9xNwm25STk5iWrBvP
+ssh bandit8@bandit.labs.overthewire.org -p 2220
+TESKZC0XvTetK0S9xNwm25STk5iWrBvP
+
+commands
+
+sort data.txt | uniq -u
+EN632PlfYiZbn3PhVK3XOGSlNInNE00t
