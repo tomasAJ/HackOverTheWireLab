@@ -1,0 +1,13 @@
+SSH connection
+The username is bandit4 and the password is 2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe
+ssh bandit4@bandit.labs.overthewire.org -p 2220
+2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe
+
+commands
+ls
+cd inhere
+ls
+find
+file ./-file*7
+cat ./-file07
+lrIWWI6bB37kxfiCQZqUdOYfr6eEeqR
