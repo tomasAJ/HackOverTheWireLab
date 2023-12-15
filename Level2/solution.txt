@@ -1,0 +1,10 @@
+SSH connection
+The username is bandit2 and the password is rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi
+
+ssh bandit2@bandit.labs.overthewire.org -p 2220
+rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi
+
+commands
+ls
+cat spaces\ in\ this\ filename
+aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG
