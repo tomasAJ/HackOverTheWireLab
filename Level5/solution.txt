@@ -1,0 +1,10 @@
+SSH connection
+The username is bandit5 and the password is lrIWWI6bB37kxfiCQZqUdOYfr6eEeqR
+ssh bandit5@bandit.labs.overthewire.org -p 2220
+lrIWWI6bB37kxfiCQZqUdOYfr6eEeqR
+
+commands
+
+find ./ -type f -size 1033c ! -executable
+find ./ -type f -size 1033c ! -executable -exec cat {} \;
+P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU
